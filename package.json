@@ -1,0 +1,25 @@
+{
+  "name": "getting-started",
+  "version": "1.0.0",
+  "description": "typescript getting started simple demo sample",
+  "main": "test.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PS-Bala/getting-started.git"
+  },
+  "keywords": [
+    "bala",
+    "typescript",
+    "demo",
+    "sample"
+  ],
+  "author": "PS-Bala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PS-Bala/getting-started/issues"
+  },
+  "homepage": "https://github.com/PS-Bala/getting-started#readme"
+}
